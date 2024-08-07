@@ -1,0 +1,28 @@
+/Users/arastaha/Projects/SpareB&B/SpareB&B/bin/Debug/net7.0/SpareB&B
+/Users/arastaha/Projects/SpareB&B/SpareB&B/bin/Debug/net7.0/SpareB&B.deps.json
+/Users/arastaha/Projects/SpareB&B/SpareB&B/bin/Debug/net7.0/SpareB&B.runtimeconfig.json
+/Users/arastaha/Projects/SpareB&B/SpareB&B/bin/Debug/net7.0/SpareB&B.dll
+/Users/arastaha/Projects/SpareB&B/SpareB&B/bin/Debug/net7.0/SpareB&B.pdb
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.AssemblyInfoInputs.cache
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.AssemblyInfo.cs
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.csproj.CoreCompileInputs.cache
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.dll
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/refint/SpareB&B.dll
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.pdb
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/SpareB&B.genruntimeconfig.cache
+/Users/arastaha/Projects/SpareB&B/SpareB&B/obj/Debug/net7.0/ref/SpareB&B.dll
+E:\jatin\Coursework 2\SpareB&B\bin\Debug\net7.0\SpareB&B.exe
+E:\jatin\Coursework 2\SpareB&B\bin\Debug\net7.0\SpareB&B.deps.json
+E:\jatin\Coursework 2\SpareB&B\bin\Debug\net7.0\SpareB&B.runtimeconfig.json
+E:\jatin\Coursework 2\SpareB&B\bin\Debug\net7.0\SpareB&B.dll
+E:\jatin\Coursework 2\SpareB&B\bin\Debug\net7.0\SpareB&B.pdb
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.GeneratedMSBuildEditorConfig.editorconfig
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.AssemblyInfoInputs.cache
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.AssemblyInfo.cs
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.csproj.CoreCompileInputs.cache
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.dll
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\refint\SpareB&B.dll
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.pdb
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\SpareB&B.genruntimeconfig.cache
+E:\jatin\Coursework 2\SpareB&B\obj\Debug\net7.0\ref\SpareB&B.dll

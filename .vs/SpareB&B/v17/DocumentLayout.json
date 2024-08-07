@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\jatin\\Coursework 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FDA43-4A02-4908-9F3C-DDAB0B20008D}|SpareB\u0026BGUI\\SpareB\u0026BGUI.csproj|e:\\jatin\\coursework 2\\spareb\u0026bgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E54FDA43-4A02-4908-9F3C-DDAB0B20008D}|SpareB\u0026BGUI\\SpareB\u0026BGUI.csproj|solutionrelative:spareb\u0026bgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54FDA43-4A02-4908-9F3C-DDAB0B20008D}|SpareB\u0026BGUI\\SpareB\u0026BGUI.csproj|e:\\jatin\\coursework 2\\spareb\u0026bgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54FDA43-4A02-4908-9F3C-DDAB0B20008D}|SpareB\u0026BGUI\\SpareB\u0026BGUI.csproj|solutionrelative:spareb\u0026bgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|e:\\jatin\\coursework 2\\spareb\u0026b\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|solutionrelative:spareb\u0026b\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|e:\\jatin\\coursework 2\\spareb\u0026b\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|solutionrelative:spareb\u0026b\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|e:\\jatin\\coursework 2\\spareb\u0026b\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E851770A-6D23-4857-A85F-82E4722D1877}|SpareB\u0026B\\SpareB\u0026B.csproj|solutionrelative:spareb\u0026b\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\jatin\\Coursework 2\\SpareB\u0026BGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SpareB\u0026BGUI\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\jatin\\Coursework 2\\SpareB\u0026BGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SpareB\u0026BGUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswCcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T06:39:17.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\jatin\\Coursework 2\\SpareB\u0026BGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SpareB\u0026BGUI\\MainWindow.xaml",
+              "ToolTip": "E:\\jatin\\Coursework 2\\SpareB\u0026BGUI\\MainWindow.xaml",
+              "RelativeToolTip": "SpareB\u0026BGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-08T06:39:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\User.cs",
+              "RelativeDocumentMoniker": "SpareB\u0026B\\User.cs",
+              "ToolTip": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\User.cs",
+              "RelativeToolTip": "SpareB\u0026B\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T08:48:51.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "House.cs",
+              "DocumentMoniker": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\House.cs",
+              "RelativeDocumentMoniker": "SpareB\u0026B\\House.cs",
+              "ToolTip": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\House.cs",
+              "RelativeToolTip": "SpareB\u0026B\\House.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:27:41.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\Booking.cs",
+              "RelativeDocumentMoniker": "SpareB\u0026B\\Booking.cs",
+              "ToolTip": "E:\\jatin\\Coursework 2\\SpareB\u0026B\\Booking.cs",
+              "RelativeToolTip": "SpareB\u0026B\\Booking.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-08T09:27:49.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SpareB&BGUI/1.0.0": {
+        "dependencies": {
+          "SpareB&B": "1.0.0"
+        },
+        "runtime": {
+          "SpareB&BGUI.dll": {}
+        }
+      },
+      "SpareB&B/1.0.0": {
+        "runtime": {
+          "SpareB&B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpareB&BGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpareB&B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
